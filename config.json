@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userralculate",
+        "uuid": 3309481,
+        "checksum": "xcf3wg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
